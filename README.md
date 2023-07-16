@@ -1,16 +1,24 @@
-### Hi there 👋
-
-<!--
-**Bereketk100/Bereketk100** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+  <img src="https://www.peppysisay.com/img/avatar.png" width="30px;">
+  </br>
+  <samp>
+    👋🏾 Hi! I'm Peppy.
+    </br>
+    I work in engineering at <a href="[https://jobs.netflix.com/](https://www.microsoft.com/en-us/)" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/9/96/Microsoft_logo_%282012%29.svg" width="100px;"></a>.
+    <br/>
+  </samp>
+  </br>
+  <a href="https://www.linkedin.com/in/peppys/" target="_blank"><samp>linkedin</samp></a>
+  </br>
+  <a href="https://github.com/peppys" target="_blank"><samp>github</samp></a>
+  </br>
+  <a href="https://twitter.com/xpeppy" target="_blank"><samp>twitter</samp></a>
+  </br>
+  </div>
+  <img src="https://www.peppysisay.com/img/man-laptop.png" width="450px">
+  </br>
+  </br>
+  <samp>
+      contact: <a href="mailto:peppysisay@gmail.com">peppysisay@gmail.com</a>
+  </samp>
+</p>

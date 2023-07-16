@@ -16,7 +16,7 @@
     <br/><br/>
     🌐 To learn more about my professional background, connect with me on <a href="https://www.linkedin.com/in/bereketkibret/" target="_blank">LinkedIn</a> 
     <br/><br/>
-    <img src="/bk+mom.png width="450px">
+<img src="bk+mom.png" width="450px">
     <br/><br/>
     📬 Feel free to reach out to me at <a href="mailto:kibret@usc.edu">kibret@usc.edu</a>. I'm always excited to connect and explore new opportunities.
   </samp>

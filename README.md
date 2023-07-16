@@ -2,7 +2,8 @@
   <br/><br/>
   <samp>
     <br/><br/>
-    <img src="bkt.png" width="30px">
+    <img src="bkt.png" width="80px">
+    <br/><br/>
     👋🏽 Hey there! My name is Bereket Kibret.
     <br/><br/>
     </br>

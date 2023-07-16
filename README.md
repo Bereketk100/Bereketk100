@@ -1,6 +1,8 @@
 <p align="center">
   <samp>
-  <img src="bkt.png" width="80px">
+    <div style="text-align: center;">
+      <img src="bkt.png" width="80px">
+    </div>
     👋🏽 Hey there! My name is Bereket Kibret.
     <br/><br/>
     </br>

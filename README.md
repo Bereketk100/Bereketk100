@@ -15,7 +15,7 @@
     <br/><br/>
     💡 Passionate about technology and its potential to make a positive impact, I am driven to using all that I have learned to better the world!
     <br/><br/>
-    <i>❤️ Here is a picture of my mom and me when I moved into USC. She is my why behind it all.</i>
+    <i>❤️ Here is a picture of my mom and i when I moved into USC. She is my why behind it all.</i>
     <br/><br/>
     <img src="bk+mom.png" width="300px">
     <br/><br/>

@@ -1,6 +1,4 @@
-<p align="center">
-  <img src="https://www.peppysisay.com/img/man-laptop.png" width="450px">
-  <br/><br/>
+<p align="center">  <br/><br/>
   <samp>
     👋🏽 Hey there! My name is Bereket Kibret.
     <br/><br/>
@@ -12,6 +10,9 @@
     <br/><br/>
     You can find me on <a href="https://www.linkedin.com/in/bereketkibret/" target="_blank">LinkedIn</a> and <a href="https://github.com/bereketk100" target="_blank">GitHub</a>.
     <br/><br/>
+      <img src="https://www.peppysisay.com/img/man-laptop.png" width="450px">
+
     Contact me at <a href="mailto:kibret@usc.edu">kibret@usc.edu</a>.
+    
   </samp>
 </p>

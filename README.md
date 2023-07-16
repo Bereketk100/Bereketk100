@@ -9,8 +9,6 @@
     <br/><br/>
     🌇 Born and raised in Gondar, Ethiopia, I am currently living in the vibrant city of Los Angeles, California.
     <br/><br/>
-    🎓 I am a dedicated student in the Computer Science Program at the University of Southern California (USC), where I have gained a solid 
-    <br/><br/>
     💡 Passionate about technology and its potential to make a positive impact, I am driven to using all that I have learned to better the world!
     <br/><br/>
     <!-- Here is a picture of my mom and me when I moved into USC. She is my why behind it all. -->

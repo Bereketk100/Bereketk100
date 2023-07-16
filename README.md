@@ -9,7 +9,9 @@
   </br>
   <a href="https://www.linkedin.com/in/bereketkibret/" target="_blank"><samp>linkedin</samp></a>
   </br>
+  <br/>
   <a href="https://github.com/bereketk100" target="_blank"><samp>github</samp></a>
+  </br>
   </div>
   <img src="https://www.peppysisay.com/img/man-laptop.png" width="450px">
   </br>

@@ -1,5 +1,4 @@
 <p align="center">
-  <img src="https://www.peppysisay.com/img/avatar.png" width="30px;">
   </br>
   <samp>
    Hi! I'm Bk  👋🏾 .

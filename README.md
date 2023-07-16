@@ -7,17 +7,14 @@
     <br/>
   </samp>
   </br>
-  <a href="https://www.linkedin.com/in/peppys/" target="_blank"><samp>linkedin</samp></a>
+  <a href="https://www.linkedin.com/in/bereketkibret/" target="_blank"><samp>linkedin</samp></a>
   </br>
-  <a href="https://github.com/peppys" target="_blank"><samp>github</samp></a>
-  </br>
-  <a href="https://twitter.com/xpeppy" target="_blank"><samp>twitter</samp></a>
-  </br>
+  <a href="https://github.com/bereketk100" target="_blank"><samp>github</samp></a>
   </div>
   <img src="https://www.peppysisay.com/img/man-laptop.png" width="450px">
   </br>
   </br>
   <samp>
-      contact: <a href="mailto:peppysisay@gmail.com">peppysisay@gmail.com</a>
+      contact: <a href="mailto:kibret@usc,edu">kibret@usc.com</a>
   </samp>
 </p>

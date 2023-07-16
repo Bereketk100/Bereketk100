@@ -1,5 +1,6 @@
 <p align="center">
   <samp>
+  <img src="bkt.png" width="80px">
     <br/><br/>
     👋🏽 Hey there! My name is Bereket Kibret.
     <br/><br/>

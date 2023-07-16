@@ -2,17 +2,18 @@
   <samp>
     👋🏽 Hey there! My name is Bereket Kibret.
     <br/><br/>
-    🌇 Born and raised in Gondar, Ethiopia, I am currently living in Los Angeles, California.
+    🌇 Born and raised in Gondar, Ethiopia, I am currently living in the vibrant city of Los Angeles, California.
     <br/><br/>
-    📚 I am a student in the Computer Science Program at USC. With a solid academic background, relevant experience, and strong communication skills, I am confident that I can make a positive and productive contribution to your organization.
+    🎓 I am a dedicated student in the Computer Science Program at the University of Southern California (USC), where I have gained a solid academic foundation in various aspects of computer science and software development.
     <br/><br/>
-    💻 As for my future, I aspire to work as a Software Developer for a company that aligns with my passions.
+    💼 In addition to my academic pursuits, I have been actively involved in the tech industry, gaining valuable experience and working with startups. Through these experiences, I have honed my skills in areas such as web development, software engineering, and project management. I am also currently working on a few startups of my own, leveraging my entrepreneurial spirit to bring innovative ideas to life.
     <br/><br/>
-    You can find me on <a href="https://www.linkedin.com/in/bereketkibret/" target="_blank">LinkedIn</a> and <a href="https://github.com/bereketk100" target="_blank">GitHub</a>.
+    💡 Passionate about technology and its potential to make a positive impact, I am driven to work with a company that shares my values and aligns with my passions. As a Software Developer, I aim to contribute to cutting-edge projects, leveraging my expertise to create intuitive and efficient solutions that address real-world problems.
     <br/><br/>
-      <img src="https://www.peppysisay.com/img/man-laptop.png" width="450px">
-
-    Contact me at <a href="mailto:kibret@usc.edu">kibret@usc.edu</a>.
-    
+    🌐 To learn more about my professional background, connect with me on <a href="https://www.linkedin.com/in/bereketkibret/" target="_blank">LinkedIn</a> and check out my latest projects on <a href="https://github.com/bereketk100" target="_blank">GitHub</a>.
+    <br/><br/>
+    <img src="https://www.peppysisay.com/img/man-laptop.png" width="450px">
+    <br/><br/>
+    📬 Feel free to reach out to me at <a href="mailto:kibret@usc.edu">kibret@usc.edu</a>. I'm always excited to connect and explore new opportunities.
   </samp>
 </p>

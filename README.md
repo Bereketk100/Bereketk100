@@ -1,7 +1,6 @@
 <p align="center">
   <samp>
     <br/><br/>
-    <br/><br/>
     👋🏽 Hey there! My name is Bereket Kibret.
     <br/><br/>
     </br>

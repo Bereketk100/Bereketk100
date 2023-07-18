@@ -2,7 +2,7 @@
   <samp>
     <img src="bkt.png" width="200px">
    <br/><br/>
-    👋🏽 Hey there! My name is Bereket Kibret.
+    👋🏽 Hey there! My name is Bereket Kibret!
     <br/><br/>
     </br>
     I work in engineering at <a href="[https://jobs.netflix.com/](https://www.microsoft.com/en-us/)" target="_blank"><img 
